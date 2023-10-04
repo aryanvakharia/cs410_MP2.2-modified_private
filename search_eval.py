@@ -10,7 +10,7 @@ def load_ranker(cfg_file):
     The parameter to this function, cfg_file, is the path to a
     configuration file used to load the index.
     """
-    k1 = 1.2
+    k1 = 1.3
     b = 0.75
     k3 = 500
 
